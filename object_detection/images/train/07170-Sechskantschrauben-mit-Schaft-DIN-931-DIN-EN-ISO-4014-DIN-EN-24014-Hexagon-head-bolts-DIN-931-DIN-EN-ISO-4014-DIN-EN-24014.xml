@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>07170-Sechskantschrauben-mit-Schaft-DIN-931-DIN-EN-ISO-4014-DIN-EN-24014-Hexagon-head-bolts-DIN-931-DIN-EN-ISO-4014-DIN-EN-24014.jpg</filename>
+	<path>/home/andrew/banka/Images screw/07170-Sechskantschrauben-mit-Schaft-DIN-931-DIN-EN-ISO-4014-DIN-EN-24014-Hexagon-head-bolts-DIN-931-DIN-EN-ISO-4014-DIN-EN-24014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>750</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>219</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>261</ymin>
+			<xmax>468</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

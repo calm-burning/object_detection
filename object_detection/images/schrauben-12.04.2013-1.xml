@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>schrauben-12.04.2013-1.jpg</filename>
+	<path>/home/andrew/banka/Images screw/schrauben-12.04.2013-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2244</width>
+		<height>1491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>573</ymin>
+			<xmax>1785</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+</annotation>

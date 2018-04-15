@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>pl16752772-hexagon_bolts_partial_thread_12_9_grade_steel_bolt.jpg</filename>
+	<path>/home/andrew/banka/Images screw/pl16752772-hexagon_bolts_partial_thread_12_9_grade_steel_bolt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>746</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>164</ymin>
+			<xmax>891</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>468</ymin>
+			<xmax>716</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

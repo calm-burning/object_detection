@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>depositphotos_12362005-Hex-bolt..jpg</filename>
+	<path>/home/andrew/banka/Images screw/depositphotos_12362005-Hex-bolt..jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>71</ymin>
+			<xmax>405</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

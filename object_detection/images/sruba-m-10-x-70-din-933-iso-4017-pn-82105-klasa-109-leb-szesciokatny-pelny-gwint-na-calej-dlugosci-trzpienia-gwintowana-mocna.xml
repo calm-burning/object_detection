@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>sruba-m-10-x-70-din-933-iso-4017-pn-82105-klasa-109-leb-szesciokatny-pelny-gwint-na-calej-dlugosci-trzpienia-gwintowana-mocna.jpg</filename>
+	<path>/home/andrew/banka/Images screw/sruba-m-10-x-70-din-933-iso-4017-pn-82105-klasa-109-leb-szesciokatny-pelny-gwint-na-calej-dlugosci-trzpienia-gwintowana-mocna.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>288</ymin>
+			<xmax>467</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>33596-infasco-3-4-10-x-4-1-2-unc-inch-hex-head-cap-screw-bolt-black-grade-5-lot-of-2.jpg</filename>
+	<path>/home/andrew/banka/Images screw/33596-infasco-3-4-10-x-4-1-2-unc-inch-hex-head-cap-screw-bolt-black-grade-5-lot-of-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>230</ymin>
+			<xmax>1094</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>394</ymin>
+			<xmax>1204</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>pl14343803-m20_x_2_x_160_bolts_for_ball_mills_eb079.jpg</filename>
+	<path>/home/andrew/banka/Images screw/pl14343803-m20_x_2_x_160_bolts_for_ball_mills_eb079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>30</ymin>
+			<xmax>244</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

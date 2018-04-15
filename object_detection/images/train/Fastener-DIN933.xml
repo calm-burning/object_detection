@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>Fastener-DIN933.jpg</filename>
+	<path>/home/andrew/banka/Images screw/Fastener-DIN933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>66</ymin>
+			<xmax>401</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

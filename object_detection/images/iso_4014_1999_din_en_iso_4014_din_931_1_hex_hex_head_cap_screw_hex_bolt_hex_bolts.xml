@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>iso_4014_1999_din_en_iso_4014_din_931_1_hex_hex_head_cap_screw_hex_bolt_hex_bolts.jpg</filename>
+	<path>/home/andrew/banka/Images screw/iso_4014_1999_din_en_iso_4014_din_931_1_hex_hex_head_cap_screw_hex_bolt_hex_bolts.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>64</ymin>
+			<xmax>189</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

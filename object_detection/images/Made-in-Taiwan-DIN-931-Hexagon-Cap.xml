@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>Made-in-Taiwan-DIN-931-Hexagon-Cap.jpg</filename>
+	<path>/home/andrew/banka/Images screw/Made-in-Taiwan-DIN-931-Hexagon-Cap.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>379</ymin>
+			<xmax>862</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

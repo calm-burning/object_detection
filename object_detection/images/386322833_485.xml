@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>386322833_485.jpg</filename>
+	<path>/home/andrew/banka/Images screw/386322833_485.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>103</ymin>
+			<xmax>387</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>131</ymin>
+			<xmax>529</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

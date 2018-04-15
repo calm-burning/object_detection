@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>Bolt-GOST-7798--70---7805-shestigrannyy,-chernyy-(Klass-prochnosti-5-8)_STI1NThUZg.jpg</filename>
+	<path>/home/andrew/banka/Images screw/Bolt-GOST-7798--70---7805-shestigrannyy,-chernyy-(Klass-prochnosti-5-8)_STI1NThUZg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1064</width>
+		<height>1064</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>141</ymin>
+			<xmax>937</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+</annotation>

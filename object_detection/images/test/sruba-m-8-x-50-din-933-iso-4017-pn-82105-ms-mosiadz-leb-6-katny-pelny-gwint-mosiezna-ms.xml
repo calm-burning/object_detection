@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images screw</folder>
+	<filename>sruba-m-8-x-50-din-933-iso-4017-pn-82105-ms-mosiadz-leb-6-katny-pelny-gwint-mosiezna-ms.jpg</filename>
+	<path>/home/andrew/banka/Images screw/sruba-m-8-x-50-din-933-iso-4017-pn-82105-ms-mosiadz-leb-6-katny-pelny-gwint-mosiezna-ms.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>322</ymin>
+			<xmax>536</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>
